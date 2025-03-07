@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/cafe-website/static/css/main.fb66b9f9.css",
-    "main.js": "/cafe-website/static/js/main.4a1446d8.js",
+    "main.css": "/cafe-website/static/css/main.8b4bb251.css",
+    "main.js": "/cafe-website/static/js/main.4256ebde.js",
     "static/js/453.f4e91890.chunk.js": "/cafe-website/static/js/453.f4e91890.chunk.js",
-    "static/media/coffee-bg.jpg": "/cafe-website/static/media/coffee-bg.2f14c8b5da092701c127.jpg",
+    "static/media/photo3.jpg": "/cafe-website/static/media/photo3.a1bcedecf2def9eb5939.jpg",
+    "static/media/photo2.jpg": "/cafe-website/static/media/photo2.a75717d38fc37894b417.jpg",
+    "static/media/menu-image.jpg": "/cafe-website/static/media/menu-image.7dbfad805a0855a4f867.jpg",
+    "static/media/photo4.jpg": "/cafe-website/static/media/photo4.75027cdfe44e047540c6.jpg",
+    "static/media/cafe-background.jpg": "/cafe-website/static/media/cafe-background.1a5716aa0487f36ee653.jpg",
+    "static/media/photo1.jpg": "/cafe-website/static/media/photo1.b6dbdc24f87b10354900.jpg",
+    "static/media/instagram-icon.png": "/cafe-website/static/media/instagram-icon.f6c05cecc3987d4107de.png",
+    "static/media/twitter-icon.png": "/cafe-website/static/media/twitter-icon.83506ed1484b9d3d2ea2.png",
     "index.html": "/cafe-website/index.html",
-    "main.fb66b9f9.css.map": "/cafe-website/static/css/main.fb66b9f9.css.map",
-    "main.4a1446d8.js.map": "/cafe-website/static/js/main.4a1446d8.js.map",
+    "main.8b4bb251.css.map": "/cafe-website/static/css/main.8b4bb251.css.map",
+    "main.4256ebde.js.map": "/cafe-website/static/js/main.4256ebde.js.map",
     "453.f4e91890.chunk.js.map": "/cafe-website/static/js/453.f4e91890.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb66b9f9.css",
-    "static/js/main.4a1446d8.js"
+    "static/css/main.8b4bb251.css",
+    "static/js/main.4256ebde.js"
   ]
 }
